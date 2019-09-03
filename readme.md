@@ -245,3 +245,6 @@ In order to receive disability-related academic accommodations students must fir
 ### Week 16 (12/11 & 12/13) * no class 12/13 for reading day
 + Due: Final project
 + Final Presentations
+
+### Week 17 (12/18)
++ Final Presentations
