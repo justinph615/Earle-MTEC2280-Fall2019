@@ -63,8 +63,8 @@ Students and all others who work with information, ideas, texts, images, music, 
 Instructor Note: Code borrowed from another source at more than four lines in length must be attributed as a //comment within the code itself. If you are unsure of whether or not your work may constitute plagiarism, please check with your instructor before submitting.
 
 ## Grading
-+ Participation/Attendance: 20%
-+ Assignments: 30%
++ Participation/Attendance: 25%
++ Assignments: 25%
 + Final Project: 30%
 + Quizzes: 20%
 

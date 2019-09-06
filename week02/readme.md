@@ -27,7 +27,4 @@
 
 ## Homework
 
-+ Create a drawing app based on the [drawing_app](https://github.com/entertainmenttechnology/Earle-MTEC2280-Fall2017/tree/master/week02/processing_demos/drawing_app) we did in class
-
-## Homework
-+ Complete the drawing app (check out the drawing app in the examples!)
++ Create a drawing app based on the work we did in class. This is your first major assignment in the class so take your time, and work to introduce things you did not have when you left class on Friday. **You must have made significant changes to your app over the weekend**. Bring it into class and be ready to show it at the beginning of class on Wednesday.
